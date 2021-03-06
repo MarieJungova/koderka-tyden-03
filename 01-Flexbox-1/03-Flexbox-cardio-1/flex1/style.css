@@ -21,3 +21,27 @@
 
 /* ---------------------------------------------------- */
 /* ZDE NAPIŠ VLASTNÍ CSS */
+.kontejner{
+    display: flex;
+}
+
+.ctverecek{
+    flex: 1 0 25%;
+
+}
+
+.prvni{
+    order: 1;
+}
+
+.druhy{
+    order: 2;
+}
+
+.treti{
+    order: 3;
+}
+
+.ctvrty{
+    order: 4;
+}
