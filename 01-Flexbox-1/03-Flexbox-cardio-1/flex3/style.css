@@ -21,3 +21,22 @@
 
 /* ---------------------------------------------------- */
 /* ZDE NAPIŠ VLASTNÍ CSS */
+.kontejner{
+    display: flex;
+}
+
+.prvni{
+    flex: 1 0 auto;
+}
+
+.druhy{
+    flex: 0 0 100px;
+}
+
+.treti{
+    flex: 0 0 100px;
+}
+
+.ctvrty{
+    flex: 2 0 auto;
+}
